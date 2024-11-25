@@ -22,7 +22,7 @@ Advanced Computer Programming - First Semester Final Project
 - This module would likely handle the functionality for viewing available events. It would retrieve event details from the database and display them to the user.
 # CancelTicket.py
 - This module would likely allow users to cancel previously booked tickets. It would involve fetching the user's booked tickets and providing an option to cancel them, updating the database accordingly.
-# DataBase
+# DataBase.PY
 - This module contains functions for interacting with the database. It likely includes:
 - TicketDetails(): Fetches current ticket IDs and details.
 - EventDetails(): Fetches available event names, types, and other relevant details.
