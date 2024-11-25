@@ -33,5 +33,13 @@ Advanced Computer Programming - First Semester Final Project
 # Message.py
 - This module contains the show_message function, which is used to display message boxes for success or error notifications throughout the application. This enhances user experience by providing immediate feedback on their actions.
 
-III. Details of the chosen SDG and its integration into the project
+# III. Details of the chosen SDG and its integration into the project
+# SDG 8: Decent Work and Economic Growth
+- Concert Event Management System can create jobs in event planning, production, security, and hospitality sectors.
+- Promotes fair labor practices and ethical working conditions.
+
+# SDG 9: Industry, Innovation, and Infrastructure
+- Can enhance efficiency, reduce waste, and enhance attendees' experience.
+- Contributes to the development of event venues and supporting infrastructure.
+
 IV. Instructions for running the program
