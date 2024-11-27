@@ -58,11 +58,11 @@ Similarly, users can view their booked tickets for a specific event by selecting
 # Database.py
 connecting to functions)
 This system utilizes a SQLite database to store all event and ticket information. Functions are defined to manage this data:
-# - EventDetails: retrieves event information from the database.
-# - TicketDetails: retrieves booked tickets.
-# - BookTicket: adds a new booking to the database.
-# - CreateNewEvent: creates a new event record in the database.
-# - DeleteTicket: removes a ticket from the database.
+- EventDetails: retrieves event information from the database.
+- TicketDetails: retrieves booked tickets.
+- BookTicket: adds a new booking to the database.
+- CreateNewEvent: creates a new event record in the database.
+- DeleteTicket: removes a ticket from the database.
 # GenerateNewCode.py
 - The system uses Python's random module to generate unique 8-digit ticket IDs, ensuring proper identification of each booking.
 # Message.py
